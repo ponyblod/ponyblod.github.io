@@ -3,9 +3,6 @@ layout: default
 title: Ponyblod
 ---
 
-# Time since ponyblod was created
-
-
   <style>
     .countup .countdown {
       text-align: center;
@@ -28,6 +25,8 @@ title: Ponyblod
       color: black;
     }
   </style>
+
+# Time since ponyblod was created
 
   <div class="countup" id="countup1">
     <span class="timeel days">00</span>
@@ -81,8 +80,7 @@ title: Ponyblod
       clearTimeout(countUpFromTime.interval);
       countUpFromTime.interval = setTimeout(function(){ countUpFromTime(countFrom, id); }, 1000);
     }
-  </script>
-  <script>
+
     window.onload = function() {
       // Month Day, Year Hour:Minute:Second, id-of-element-container
       countDownToTime("Aug 3, 2022 12:00:00", 'countdown1'); // ****** Change this line!
