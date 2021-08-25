@@ -36,6 +36,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-meta
 
 # Exclude from processing.
 # The following items will not be processed, by default.
