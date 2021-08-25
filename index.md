@@ -46,7 +46,7 @@ title: Ponyblod
     }
   </style>
 
-# Time since ponyblod was created [25 Aug, 2021 13:37:00]
+# Time since ponyblod was created [25 Aug, 2021 13:37]
 
   <div class="countup" id="countup1">
     <span class="timeel days">00</span>
@@ -60,7 +60,7 @@ title: Ponyblod
   </div>
 
  
-# Time until next bornhack [3 Aug, 2022 12:00:00]
+# Time until next bornhack [3 Aug, 2022 12:00]
  
 
   <div class="countdown" id="countdown1">
