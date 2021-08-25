@@ -46,7 +46,7 @@ title: Ponyblod
     }
   </style>
 
-# Time since ponyblod was created
+# Time since ponyblod was created [25 Aug, 2021 13:37:00]
 
   <div class="countup" id="countup1">
     <span class="timeel days">00</span>
@@ -60,7 +60,7 @@ title: Ponyblod
   </div>
 
  
-# Time until next bornhack
+# Time until next bornhack [3 Aug, 2022 12:00:00]
  
 
   <div class="countdown" id="countdown1">
@@ -77,9 +77,9 @@ title: Ponyblod
   <script>
     window.onload = function() {
       // Month Day, Year Hour:Minute:Second, id-of-element-container
-      countUpFromTime("Aug 25, 2021 13:37:00", 'countup1'); // ****** Change this line!
+      countUpFromTime("Aug 25, 2021 13:37:00", 'countup1');
         // Month Day, Year Hour:Minute:Second, id-of-element-container
-      countDownToTime("Aug 3, 2022 12:00:00", 'countdown1'); // ****** Change this line!
+      countDownToTime("Aug 3, 2022 12:00:00", 'countdown1');
     };
     function countUpFromTime(countFrom, id) {
       countFrom = new Date(countFrom).getTime();
