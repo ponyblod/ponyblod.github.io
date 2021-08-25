@@ -27,7 +27,7 @@ title: Ponyblod
   </style>
 
 # Time since ponyblod was created
-```html
+
   <div class="countup" id="countup1">
     <span class="timeel days">00</span>
     <span class="timeel timeRefDays">days</span>
@@ -38,11 +38,11 @@ title: Ponyblod
     <span class="timeel seconds">00</span>
     <span class="timeel timeRefSeconds">seconds</span>
   </div>
-```
+
  
  # Time until next bornhack
  
- ```html
+
   <div class="countdown" id="countdown1">
     <span class="timeel days">00</span>
     <span class="timeel timeRefDays">days</span>
@@ -83,5 +83,5 @@ title: Ponyblod
       countUpFromTime.interval = setTimeout(function(){ countUpFromTime(countFrom, id); }, 1000);
     }
   </script>
-  ```
+
 
