@@ -1,10 +1,11 @@
 ---
 layout: default
+title: Ponyblod
 ---
 
 # Time since ponyblod was created
 
-<html>
+
   <style>
     .countup {
       text-align: center;
@@ -13,7 +14,7 @@ layout: default
     .countup .timeel {
       display: inline-block;
       padding: 10px;
-      background: #151515;
+      background: #B5E853;
       margin: 0;
       color: white;
       min-width: 2.6rem;
@@ -68,5 +69,3 @@ layout: default
       countUpFromTime.interval = setTimeout(function(){ countUpFromTime(countFrom, id); }, 1000);
     }
   </script>
-
-</html>
