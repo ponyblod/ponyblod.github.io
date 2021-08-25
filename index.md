@@ -4,11 +4,11 @@ title: Ponyblod
 ---
 
   <style>
-    .countup .countdown {
+    .countup {
       text-align: center;
       margin-bottom: 20px;
     }
-    .countup .countdown .timeel {
+    .countup .timeel {
       display: inline-block;
       padding: 10px;
       background: #151515;
@@ -18,7 +18,27 @@ title: Ponyblod
       margin-left: 13px;
       border-radius: 10px 0 0 10px;
     }
-    .countup .countdown span[class*="timeRef"] {
+    .countup span[class*="timeRef"] {
+      border-radius: 0 10px 10px 0;
+      margin-left: 0;
+      background: #B5E853;
+      color: black;
+    }
+    .countdown {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .countdown .timeel {
+      display: inline-block;
+      padding: 10px;
+      background: #151515;
+      margin: 0;
+      color: white;
+      min-width: 2.6rem;
+      margin-left: 13px;
+      border-radius: 10px 0 0 10px;
+    }
+    .countdown span[class*="timeRef"] {
       border-radius: 0 10px 10px 0;
       margin-left: 0;
       background: #B5E853;
