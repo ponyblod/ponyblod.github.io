@@ -14,7 +14,7 @@ title: Ponyblod
     .countup .timeel {
       display: inline-block;
       padding: 10px;
-      background: #B5E853;
+      background: #151515;
       margin: 0;
       color: white;
       min-width: 2.6rem;
@@ -24,7 +24,7 @@ title: Ponyblod
     .countup span[class*="timeRef"] {
       border-radius: 0 10px 10px 0;
       margin-left: 0;
-      background: #e8c152;
+      background: #B5E853;
       color: black;
     }
   </style>
