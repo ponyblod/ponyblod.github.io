@@ -5,7 +5,7 @@ categories: ctf
 author: PonyBlod
 ---
 
-#### Team PonyBlod has participated in the first CTF as a team.
+Team PonyBlod has participated in the first CTF as a team.
 
 We joined in on the `CSAW 2021 CTF` Saturday evening at ~6PM. Quickly we gathered together and started hacking away.
 
