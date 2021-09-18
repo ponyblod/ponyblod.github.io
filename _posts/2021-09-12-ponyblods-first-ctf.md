@@ -2,7 +2,7 @@
 layout: post
 title: "Team PonyBlod joining the first CTF"
 categories: ctf
-author: PonyBlod
+author: Ponyblod
 ---
 
 Team PonyBlod has participated in the first CTF as a team.
@@ -18,7 +18,7 @@ Around noon we were on a 2nd place out of 8 teams in `Denmark`
 
 But we got overtaken in the last hours by another team called `SDU`.
 
-![scoreboard](../assets/img/csaw-2021-scoreboard-denmark.png)
+![scoreboard](../assets/img/csaw-2021/csaw-2021-scoreboard-denmark.png)
 
 Overall it has been a fun experience and some nice challenges, we all learned something new, which is the reason for us to play.
 
@@ -26,4 +26,4 @@ We joined in rather spontaneous so none of us prepared for write-ups or any othe
 
 This is a list of all of the challenges we solved
 
-![challenges](../assets/img/team-ponyblod-challenges.png)
+![challenges](../assets/img/csaw-2021/team-ponyblod-challenges.png)
